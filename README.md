@@ -97,8 +97,7 @@ Los dos gráficos PNG se guardan automáticamente en el directorio del proyecto.
 
 ## Author / Autor
 
-**Jhosep Michael Yachi Garcia** *(Jhooma)*  
-Estudiante de 9no ciclo de Ingeniería de Sistemas e Informática — UTP | Beca por Excelencia Académica
-
+**Jhosep Michael Yachi Garcia** *(Jhosep)*  
+Estudiante de 9no ciclo de Ingeniería de Sistemas e Informática — UTP
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jhosep20--code-181717?style=flat-square&logo=github)](https://github.com/Jhosep20-code)
